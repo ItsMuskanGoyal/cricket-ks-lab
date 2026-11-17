@@ -1,0 +1,7 @@
+# Works for both the Streamlit app (streamlit_app.py) and the Gradio app (app.py, install gradio separately)
+streamlit==1.40.2
+mediapipe==0.10.21
+numpy>=1.24,<2
+scipy>=1.10,<1.14
+matplotlib>=3.7,<3.10
+imageio-ffmpeg>=0.4.9

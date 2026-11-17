@@ -1,0 +1,7 @@
+{
+  "Example batter - 175 cm (height only)": {"height_cm": 175},
+  "Example batter - 160 cm (height only)": {"height_cm": 160},
+  "Example batter - 172 cm (full measurements)": {
+    "height_cm": 172, "upper_arm_cm": 31, "forearm_cm": 25, "thigh_cm": 42, "shank_cm": 42
+  }
+}
